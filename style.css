@@ -1,5 +1,25 @@
+.lista {
+   
+   font-size: 30;
+   color: red;
+}
+
+.minhalista{
+   font-size; 40;
+   color: blue;
+   
+}
+
+#imagem {
+   text-aling: center;
+}
+
+#link {
+   text-aling: center;
+}
+
 p {
-   color:red;
+   color: red;
    font-size:30;
    text-align:left;
 }
