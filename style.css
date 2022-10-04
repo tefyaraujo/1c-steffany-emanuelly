@@ -12,10 +12,11 @@
 
 .cabecalho {
    border-bottom-style: solid;
+   background: greenyellow;
+   margin-top; -8px
    margin-left: -8px;
    margin-right: -8px;
-   background: greenyellow;
-   padding-top: 1px;
+   padding: 1px;
 
 #destaque {
    border: spx;
