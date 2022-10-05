@@ -9,6 +9,19 @@
    color: blue;
    
 }
+.rodape {
+   border-top-style: solid;
+   background: greenyellow;
+   margin-top; -8px
+   margin-left: -8px;
+   margin-right: -8px;
+   padding: 1px;
+}
+   
+#rodape2 {
+   color: bluee;
+   text-aling: center;
+}
 
 .cabecalho {
    border-bottom-style: solid;
@@ -17,7 +30,12 @@
    margin-left: -8px;
    margin-right: -8px;
    padding: 1px;
+}
    
+#cabecalho2 {
+   color: bluee;
+   text-aling: center;
+}
 
 #destaque {
    border: spx;
