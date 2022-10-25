@@ -52,6 +52,10 @@
    backgroud: yellow;
 }
 
+#lateral {
+   float: right;
+}
+
 #imagem {
    text-aling: center;
 }
